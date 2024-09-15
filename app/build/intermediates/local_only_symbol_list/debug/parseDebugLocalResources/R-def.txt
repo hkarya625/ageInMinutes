@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color bgColor
+color black
+color btColor
+color lightGrey
+color textColor
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnDatePicker
+id main
+id tvAgeInMinutes
+id tvSelectedDate
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string age
+string app_name
+string button1
+string calculate_your
+string in_minutes
+style Base.Theme.DOBCalc
+style Theme.DOBCalc
+xml backup_rules
+xml data_extraction_rules

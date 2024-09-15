@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor">#f9e79f</color>
+    <color name="black">#FF000000</color>
+    <color name="btColor">#2a9d8f</color>
+    <color name="lightGrey">#b7b7a4</color>
+    <color name="textColor">#264653</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="age">AGE</string>
+    <string name="app_name">Age In Minutes</string>
+    <string name="button1">Select Date</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="in_minutes">IN MINUTES</string>
+    <style name="Base.Theme.DOBCalc" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.DOBCalc" parent="Base.Theme.DOBCalc"/>
+</resources>

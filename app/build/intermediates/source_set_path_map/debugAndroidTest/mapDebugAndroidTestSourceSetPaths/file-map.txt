@@ -1,0 +1,5 @@
+com.example.dobcalc.test.app-core-1.6.1-0 C:\Users\hkary\.gradle\caches\transforms-4\e55ed4e6aa3373ab84b8d900a408c554\transformed\core-1.6.1\res
+com.example.dobcalc.test.app-androidTest-1 C:\Users\hkary\AndroidStudioProjects\DOBCalc\app\build\generated\res\resValues\androidTest\debug
+com.example.dobcalc.test.app-mergeDebugAndroidTestResources-2 C:\Users\hkary\AndroidStudioProjects\DOBCalc\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.dobcalc.test.app-mergeDebugAndroidTestResources-3 C:\Users\hkary\AndroidStudioProjects\DOBCalc\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.dobcalc.test.app-debugAndroidTest-4 C:\Users\hkary\AndroidStudioProjects\DOBCalc\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
